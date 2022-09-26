@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -r -r /var/backups
+chmod 354 olleh
