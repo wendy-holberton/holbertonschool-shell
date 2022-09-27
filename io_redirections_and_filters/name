@@ -1,0 +1,24 @@
+total 72
+drwxr-xr-x 2 root root 4096 Sep 27 03:04 .
+drwxr-xr-x 6 root root  124 Sep 26 22:28 ..
+-rwxr--r-- 1 root root   32 Sep 26 22:43 0-hello_world
+-rwxr--r-- 1 root root   28 Sep 26 23:18 1-confused_smiley
+-rwxr--r-- 1 root root   28 Sep 26 23:38 2-hellofile
+-rwxr--r-- 1 root root   39 Sep 26 23:44 3-twofiles
+-rw-r--r-- 1 root root   38 Sep 26 23:43 3-twofiles~
+-rwxr--r-- 1 root root   35 Sep 26 23:58 4-lastlines
+-rw-r--r-- 1 root root   33 Sep 26 23:52 4-lastlines~
+-rwxr--r-- 1 root root   35 Sep 27 00:01 5-firstlines
+-rw-r--r-- 1 root root   35 Sep 27 00:01 5-firstlines~
+-rwxr--r-- 1 root root   36 Sep 27 00:28 6-third_line
+-rwxr--r-- 1 root root   30 Sep 27 00:11 6-third_line~
+-rwxr--r-- 1 root root  100 Sep 27 00:50 7-file
+-rw-r--r-- 1 root root   84 Sep 27 00:40 7-file~
+-rw-r--r-- 1 root root   12 Sep 27 02:51 8-cwd_state
+-rw-r--r-- 1 root root   12 Sep 27 00:50 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 Sep 27 00:03 iacta
+-rw-r--r-- 1 root root    0 Sep 27 02:49 ls_cwd_content
+-rw-r--r-- 1 root root    0 Sep 27 03:04 name
+-rw-r--r-- 1 root root   11 Sep 26 22:31 README.md
+-rw-r--r-- 1 root root    0 Sep 26 22:31 README.md~
+-rw-r--r-- 1 root root    4 Sep 27 00:47 what
