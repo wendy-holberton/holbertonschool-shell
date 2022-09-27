@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Relace all characters" | tr -cd '[A-c]' '[Z-e]'
