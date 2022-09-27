@@ -1,2 +1,2 @@
 #!/bin/bash
-cat --number 3 iacta
+cat --number 3rd iacta
