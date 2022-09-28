@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | cut -c 2-5 /etc/passwd
+ls -l | cut -d/ -f2-5 /etc/passwd
