@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d' ' -f1 file | grep "word"
+cut -d' ' -f1 file | find . -name
