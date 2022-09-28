@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c2- | find . -name -exec
+cut -c-1 | find . -name -exec
