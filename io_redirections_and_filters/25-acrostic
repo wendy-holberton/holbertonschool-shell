@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d' ' -f1 file | find . -name -exec
+cat file | cut -d' ' -f1 file | find . -name -exec
