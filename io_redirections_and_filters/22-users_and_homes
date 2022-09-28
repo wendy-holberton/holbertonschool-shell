@@ -1,3 +1,2 @@
 #!/bin/bash
 cut -d: -f2-5,7 /etc/passwd
-
