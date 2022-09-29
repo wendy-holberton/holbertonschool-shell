@@ -1,0 +1,2 @@
+#!/bin/bassh
+printf "%.2f \n" $num
